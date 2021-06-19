@@ -36,7 +36,7 @@ console.log(reverseName);
 // 3.3
 
 if (hacker1 > hacker2) {
-    console.log('The driver\'s name goes first')
+    console.log('The drivers name goes first')
 } else if (hacker1 === hacker2) {
     console.log('What?! You both have the same name?')
 } else {
